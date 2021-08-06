@@ -6,4 +6,5 @@ https://en.wikipedia.org/wiki/Collatz_conjecture
 
 the program user matplotlib and numpy
 it takes a input number from user and plots Collatz conjecture cycle
+it uses recussion to perform the same 
 
